@@ -8,6 +8,7 @@ https://github.com/sbagh_ncstate/stella_vslam_marker_priors
 This is Shitikantha's 360 visual SLAM code.
 
 - door corner based alignment (Under Review, no info exists)
+
 @article{HWANG2026,
 title = {{End-to-End Alignment of 360-Degree Camera Data Using Visual SLAM- and BIM-based 3D Object-Relation Graph Similarity}},
 journal = {Automation in Construction},
@@ -19,6 +20,7 @@ author = {Jeongbin Hwang and Kevin Han}
 }
 
 - marker based alignment (Accepted on 03/27/2026)
+
 @article{HWANGSLAMTOBIM,
 title = {{Towards Automated SLAM-to-BIM for Digital Twin Applications: BIM-Assisted 360-Degree Camera-based Visual SLAM Using Reference Point–based Bundle Adjustment}},
 journal = {Journal of Construction Engineering and Management},
